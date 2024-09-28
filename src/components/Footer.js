@@ -51,6 +51,7 @@ const Footer = () => {
                 style={{ color: "#fff", marginRight: "2rem" }}
               />
             </a>
+
             <a
               href="https://www.linkedin.com/in/garv-patel-08b745287/"
               target="_blank"
